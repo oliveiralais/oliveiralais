@@ -1,6 +1,7 @@
 <h1 align="left"> Hi, I'm Lais Oliveira! 🙋‍♀️ </h1>
 
 #### Welcome to my Github profile!
+* Computer Science student at the Instituto Federal de São Paulo 
 
 ## Contact
 
