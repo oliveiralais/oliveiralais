@@ -36,5 +36,5 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ##
-  
-![snake animation](https://github.com/oliveiralais/oliveiralais/blob/output/github-contribution-grid-snake2.svg)
+
+![snake gif](https://github.com/oliveiralais/oliveiralais/blob/output/github-contribution-grid-snake.svg)
