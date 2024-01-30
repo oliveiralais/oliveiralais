@@ -37,4 +37,4 @@
 
 ##
   
-![Snake animation](https://github.com/oliveiralais/oliveiralais/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/oliveiralais/oliveiralais/blob/output/github-contribution-grid-snake2.svg)
