@@ -2,6 +2,7 @@
 
 #### Bem-vindo(a) ao meu Github!
 * Estudando para ser Desenvolvedora Full Stack
+* Trainee RPA e QA - Automate Brasil
 * Bacharel em Ciência da Computação pelo IFSP
 
 ## Contatos
