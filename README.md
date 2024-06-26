@@ -1,7 +1,7 @@
 <h1 align="left"> Olá, eu sou Lais Oliveira! 🙋‍♀️ </h1>
 
 #### Bem-vindo(a) ao meu Github!
-* Estudando para ser Desenvolvedora Full Stack
+* Estudando para ser Desenvolvedora Web / Analista QA
 * Trainee RPA e QA - Automate Brasil
 * Bacharel em Ciência da Computação pelo IFSP
 
