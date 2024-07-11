@@ -2,7 +2,7 @@
 
 #### Bem-vindo(a) ao meu Github!
 * Estudando para ser Desenvolvedora Web / Analista QA
-* Trainee RPA e QA - Automate Brasil
+* Analista de Desenvolvimento de Sistemas / QA Tester - Automate Brasil
 * Bacharel em Ciência da Computação pelo IFSP
 
 ## Contatos
