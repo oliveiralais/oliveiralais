@@ -1,8 +1,8 @@
 <h1 align="left"> Olá, eu sou Lais Oliveira! 🙋‍♀️ </h1>
 
 #### Bem-vindo(a) ao meu Github!
-* Estudando para ser Desenvolvedora Web / Analista QA
-* Analista de Desenvolvimento de Sistemas / QA Tester - Automate Brasil
+* Estudando Quality Assurance
+* Analista QA / Tester - OPAH IT
 * Bacharel em Ciência da Computação pelo IFSP
 
 ## Contatos
