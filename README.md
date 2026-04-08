@@ -2,8 +2,12 @@
 
 #### Bem-vindo(a) ao meu Github!
 * Analista QA / Tester - OPAH IT
-* Testes Funcionais, Exploratórios e Automatizados
 * Bacharel em Ciência da Computação pelo IFSP
+- Experiência prática com Cypress em projetos reais
+- Investigação e reprodução de bugs complexos
+- Experiência com fluxo financeiro
+- Conhecimento em automação + testes manuais
+- Interesse em automação, testes de API, performance e segurança
 
 ## Contatos
 
@@ -12,13 +16,6 @@
 <a href="https://www.linkedin.com/in/laisoliveira11" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## Minhas principais linguagens
-
-<div>
-<a href="https://github.com/oliveiralais">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiralais&layout=compact&langs_count=7&theme=tokyonight"/><br/>
-</div>
-  
 ## Minhas skills
 
 [![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)](https://docs.cypress.io/guides/overview/why-cypress)
@@ -34,8 +31,19 @@
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.com/kb/en/documentation/)
 
+## Minhas principais linguagens
 
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oliveiralais&theme=tokyonight)
 
+<!--![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oliveiralais&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oliveiralais&layout=compact&theme=tokyonight)
+
+<div>
+<a href="https://github.com/oliveiralais">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-lais&layout=compact&langs_count=7&theme=tokyonight"/><br/>
+</div>-->
+  
 ##
 
 <picture>
